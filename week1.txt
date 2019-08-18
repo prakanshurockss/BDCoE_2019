@@ -1,0 +1,3 @@
+day1: virtualization, hypervisor
+day2: linux , git
+day3: github

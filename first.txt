@@ -1,0 +1,1 @@
+First push of the project . Got an intro of git today .

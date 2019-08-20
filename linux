@@ -1,0 +1,18 @@
+linux is a operating system based on character user interface.it helps us to 
+understand the working of computer system more effiently.
+One of the basic linux is ubuntu .
+some of the basic commands used in ubuntu are:
+* mkdir   - used in making of new directory .
+* cd - to change directories
+* cd .. - to go the previous directory .
+* ls - list all the directories present in folder.
+* ls-a  - list hidden files also.
+* pwd - gives the name of the present directory etc etc,
+
+            permission in ubuntu is given in 9 digits.
+* r - for reading only .
+* w - for writing also .
+* x - for execution of file
+ first 3 is given for user next 3 for   group and next 3 for others.
+                    Ubuntu is  a case sensitive language.
+   there are many more commands in ubuntu to learn.
